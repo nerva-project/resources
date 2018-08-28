@@ -11,3 +11,4 @@ Credits:
 	- Logos/*
 	- BitBucketIcons/nerva.png
 	- DiscordAvatars/server-*.png
+	- Banners/*
